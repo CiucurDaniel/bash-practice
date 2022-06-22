@@ -12,3 +12,20 @@ docker build -t bash-practice-image .
 # Run the container
 docker run -it bash-practice-image
 ```
+
+# Bash concepts
+
+Bash Script Arguments
+Bash if statements
+Bash Script Variables
+read Keyword
+Bash Shebang
+Bash Aliases
+Bash scripts
+Bash script comparison operators
+
+
+# Extra
+
+`$#` - total number of arguments
+`$@` - maintains all arguemnts given
